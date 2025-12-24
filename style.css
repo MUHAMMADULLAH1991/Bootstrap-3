@@ -1,0 +1,14 @@
+.bg-custom{
+    background-color: black;
+}
+
+.custom-nav-link{
+    text-decoration: none;
+    color: azure;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.img-height{
+    height: 300px;
+}
